@@ -33,17 +33,20 @@ This commands includes
 ### tracert
 ![alt text](<CN 04 tracert.png>)
 
-### ipconfig
-![alt text](<CN 04 ipconfig.png>)
+### tracert
+![alt text](<CN 04 tracert.png>)
 
 ### ftp
 ![alt text](<CN 04 ftp.png>)
 
-### netstat
-![alt text](<CN 04 netstat.png>)
+### ipconfig
+![alt text](<CN 04 ipconfig.png>)
 
 ### nslookup
 ![alt text](<CN 04 nslookup.png>)
 
-## Result
-Thus Execution of Network commands Performed 
+### netstat
+![alt text](<CN 04 netstat.png>)
+
+### Result
+Thus Execution of Network commands Performed
