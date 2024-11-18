@@ -28,10 +28,11 @@ This commands includes
 
 ## Output
 ### ping
-![alt text](ping.png)
+![CN 04 ping](https://github.com/user-attachments/assets/7e989f78-b044-4a11-ad82-be76149973da)
+
+
 
 ### tracert
-![alt text](tracert.png)
 
 ### ipconfig
 ![alt text](ipconfig.png)
