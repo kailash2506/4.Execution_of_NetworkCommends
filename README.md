@@ -30,21 +30,20 @@ This commands includes
 ### ping
 ![CN 04 ping](https://github.com/user-attachments/assets/7e989f78-b044-4a11-ad82-be76149973da)
 
-
-
 ### tracert
+![alt text](<CN 04 tracert.png>)
 
 ### ipconfig
-![alt text](ipconfig.png)
+![alt text](<CN 04 ipconfig.png>)
 
 ### ftp
-![alt text](ftp.png)
+![alt text](<CN 04 ftp.png>)
 
 ### netstat
-![alt text](netstat.png)
+![alt text](<CN 04 netstat.png>)
 
 ### nslookup
-![alt text](nslookup.png)
+![alt text](<CN 04 nslookup.png>)
 
 ## Result
 Thus Execution of Network commands Performed 
